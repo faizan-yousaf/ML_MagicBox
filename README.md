@@ -19,7 +19,7 @@ Welcome to **ML_MagicBox**—your go-to collection for everything related to Mac
 
 1. **Clone the Repository**:
     ```bash
-    git clone https://github.com/your-username/ML_MagicBox.git
+    git clone https://github.com/faizan-yousaf/ML_MagicBox.git
     ```
 
 2. **Explore the Content**:
